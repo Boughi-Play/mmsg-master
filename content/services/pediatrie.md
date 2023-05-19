@@ -1,5 +1,5 @@
 ---
-title: Pédiatrie
+title: Logopédie
 icon: /assets/services/pediatrie.svg
 layout: Service
 ordre: 5
